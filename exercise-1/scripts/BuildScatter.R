@@ -1,4 +1,5 @@
 # Function to build a scatterplot
+library(ggplot2)
 
 # Write your function to parameterize the following variables:
 #   - Data to use

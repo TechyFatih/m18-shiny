@@ -1,5 +1,4 @@
 # Exercise 1: Loading functions
-library(ggplot2)
 
 # Set your directory
 setwd('~/GitHub/INFO 201/Exercises/m18/exercise-1')
